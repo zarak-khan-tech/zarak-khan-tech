@@ -18,7 +18,7 @@ I build AI-powered systems for:
 
 Currently exploring:
 - 🔗 Agentic AI (Multi-Agent Systems)
-- 🧩 LLM Integration (OpenAI, Gemini)
+- 🧩 LLM Integration (OpenRouter, Ollama)
 - 📄 RAG Systems (Document Intelligence)
 - ⚙️ AI Workflow Automation
 
