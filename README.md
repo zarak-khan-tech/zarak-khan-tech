@@ -25,29 +25,6 @@ My focus is on turning real-world problems into useful software systems.
 
 ## 🚀 Featured Projects
 
-### 🏥 MediSphere AI
-AI-powered healthcare management system with a multi-agent workflow.
-
-**Highlights:**
-- Patient management
-- Appointment-related workflows
-- Medical Q&A assistance
-- Multi-agent AI system
-
----
-
-### 🎓 CampusIQ
-AI-powered university assistant designed for BUITEMS students.
-
-**Highlights:**
-- GPA / CGPA calculation
-- Academic document search
-- AI study assistance
-- Grading system
-- Document intelligence
-
----
-
 ### 📧 AI Gmail Automation
 AI-powered email automation system that processes incoming Gmail messages and generates context-aware replies.
 
@@ -59,6 +36,31 @@ AI-powered email automation system that processes incoming Gmail messages and ge
 - Knowledge-base grounded replies
 - PostgreSQL data storage
 - Automated scheduling
+
+---
+
+### 🏥 MediSphere AI
+AI-powered healthcare management system with a multi-agent workflow.
+
+**Highlights:**
+- Patient management
+- Appointment-related workflows
+- Medical Q&A assistance
+- Multi-agent AI system
+
+---
+
+### 🎓 UniNexus AI
+Autonomous multi-agent university intelligence platform designed around orchestration, specialized agents, institutional knowledge, and university data workflows.
+
+**Highlights:**
+- Multi-agent orchestration
+- Attendance, policy, risk, and knowledge agents
+- AI Command Center
+- JWT authentication
+- Multi-tenant data architecture
+- Audit logging and analytics
+- Local LLM planning with Ollama
 
 ---
 
