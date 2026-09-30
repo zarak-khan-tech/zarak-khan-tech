@@ -1,90 +1,112 @@
+<div align="center">
+
 # Zarak Khan Yousafzai
 
-### BSIT Student | AI & LLM Applications | Multi-Agent Systems | Python | AI Automation
+### AI & LLM Applications · Multi-Agent Systems · Python · AI Automation
 
-[![GitHub](https://img.shields.io/badge/GitHub-zarak--khan--tech-181717?logo=github)](https://github.com/zarak-khan-tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zarak%20Khan%20Yousafzai-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zarak-khan-yousafzai/)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+practical+AI+systems;LLM-powered+applications+%7C+RAG+%7C+Agents;Learning+AI+Engineering+through+real+projects" alt="Typing animation" />
 
-**BS Information Technology student at BUITEMS, Quetta, Pakistan.**
+<p>
+  <a href="https://github.com/zarak-khan-tech"><img src="https://img.shields.io/badge/GitHub-zarak--khan--tech-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/zarak-khan-yousafzai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:zkyousafzai900@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-I build practical software projects around **AI/LLM applications, multi-agent systems, automation, RAG, and backend development**. My portfolio focuses on learning by building complete systems rather than isolated AI demos.
+</div>
 
 ---
 
-## Focus
+## About
 
-- AI & LLM Applications
-- Multi-Agent Systems
-- AI Automation & Intelligent Workflows
-- RAG & Document Intelligence
-- Python Backend Development
-- API and Database Integration
+I'm a **BS Information Technology student at BUITEMS, Quetta, Pakistan**, focused on building practical software with AI and LLM technologies.
+
+My portfolio is centered on **AI/LLM applications, multi-agent systems, RAG, intelligent automation, APIs, databases, and Python backend development**.
+
+I learn by building complete projects, testing them, documenting them, and improving them.
+
+---
+
+## What I Work With
+
+| Area | Technologies |
+|---|---|
+| **AI / LLM** | LLM APIs · RAG · Embeddings · Prompt Engineering · Multi-Agent Systems · Ollama · OpenRouter |
+| **Backend** | Python · FastAPI · Flask · REST APIs · SQLAlchemy |
+| **Frontend** | React · Vite · Tailwind CSS · JavaScript |
+| **Data** | PostgreSQL · SQLite · SQL |
+| **Automation** | APScheduler · API Integrations · Intelligent Workflows |
+| **Tools** | Git · GitHub · VS Code |
 
 ---
 
 ## Featured Projects
 
-### [UniNexus AI](https://github.com/zarak-khan-tech/UniNexus-AI)
-**Autonomous Multi-Agent University Intelligence Platform**
+<a href="https://github.com/zarak-khan-tech/UniNexus-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarak-khan-tech&repo=UniNexus-AI&theme=transparent&hide_border=true" alt="UniNexus AI">
+</a>
 
-A portfolio/educational project exploring how LLMs can work with registered tools, specialized agents, retrieval, human approval, and workflow automation.
+<a href="https://github.com/zarak-khan-tech/ai-email-automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarak-khan-tech&repo=ai-email-automation&theme=transparent&hide_border=true" alt="AI Email Automation">
+</a>
 
-**Built with:** Python, FastAPI, React, SQLAlchemy, JWT, Groq, Gemini, Ollama, RAG
+<a href="https://github.com/zarak-khan-tech/MediSphere-AI-New">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarak-khan-tech&repo=MediSphere-AI-New&theme=transparent&hide_border=true" alt="MediSphere AI">
+</a>
 
----
+### UniNexus AI
+Autonomous multi-agent university intelligence platform exploring **agent orchestration, tool calling, RAG, human-in-the-loop approvals, and workflow automation**.
 
-### [AI Email Automation](https://github.com/zarak-khan-tech/ai-email-automation)
-**AI-Powered Email Intelligence & Response Automation**
+### AI Email Automation
+Python-based email intelligence system combining **Gmail processing, LLM classification, knowledge-grounded replies, PostgreSQL, and scheduled automation**.
 
-A Python automation system that processes Gmail messages, classifies emails with an LLM, extracts useful information, generates knowledge-based replies, and records workflow data.
-
-**Built with:** Python, OpenRouter, Gmail IMAP/SMTP, PostgreSQL, SQLAlchemy, APScheduler
-
----
-
-### [MediSphere AI](https://github.com/zarak-khan-tech/MediSphere-AI-New)
-**Hospital Management & Multi-Agent Assistant**
-
-An educational technical project combining hospital workflows, a modular multi-agent architecture, structured data handling, and LLM-assisted intent classification.
-
-**Built with:** Python, Flask, SQLite, Jinja2, JavaScript, LLM APIs
-
-> Educational project — not a medical diagnosis or treatment system.
+### MediSphere AI
+Educational hospital-management project demonstrating **multi-agent workflows, structured data handling, and LLM-assisted intent classification**.
 
 ---
 
-## Technical Stack
+## GitHub Activity
 
-**Languages**  
-Python · SQL · HTML · CSS · JavaScript
+<div align="center">
 
-**AI / LLM**  
-LLM APIs · Prompt Engineering · RAG · Embeddings · Multi-Agent Systems · Ollama · OpenRouter
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zarak-khan-tech&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics">
 
-**Backend & Data**  
-FastAPI · Flask · SQLAlchemy · PostgreSQL · SQLite · REST APIs
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarak-khan-tech&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
 
-**Tools**  
-Git · GitHub · Vite · React · Tailwind CSS · APScheduler
+</div>
 
 ---
 
 ## Current Direction
 
-I am currently developing toward **AI Engineering**, with a focus on building reliable LLM-powered applications, agentic workflows, backend systems, and practical automation.
+**AI Engineering**
 
-My approach is simple:
+I'm currently strengthening my skills in:
 
-**Learn → Build → Test → Document → Improve**
+- LLM application architecture
+- Agentic workflows and tool calling
+- RAG and document intelligence
+- Python backend systems
+- AI automation
+- Testing, documentation, and deployment
+
+<div align="center">
+
+### Learn → Build → Test → Document → Improve
+
+</div>
 
 ---
 
-## Connect
+<div align="center">
 
-- **LinkedIn:** [Zarak Khan Yousafzai](https://www.linkedin.com/in/zarak-khan-yousafzai/)
-- **GitHub:** [zarak-khan-tech](https://github.com/zarak-khan-tech)
-- **Email:** zkyousafzai900@gmail.com
+<a href="https://www.linkedin.com/in/zarak-khan-yousafzai/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/zarak-khan-tech">GitHub</a>
+&nbsp; · &nbsp;
+<a href="mailto:zkyousafzai900@gmail.com">Email</a>
 
----
+<br><br>
 
-*Building practical AI systems and learning through real projects.*
+<img src="https://komarev.com/ghpvc/?username=zarak-khan-tech&style=flat-square&color=3B82F6" alt="Profile views">
+
+</div>
