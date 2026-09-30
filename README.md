@@ -1,110 +1,90 @@
-# 👋 Hi, I'm Zarak Khan Yousafzai
+# Zarak Khan Yousafzai
 
-### Python Developer | AI & LLM Applications | AI Automation & Agents
+### BSIT Student | AI & LLM Applications | Multi-Agent Systems | Python | AI Automation
 
-🎓 BS Information Technology Student @ BUITEMS  
-📍 Quetta, Balochistan, Pakistan
+[![GitHub](https://img.shields.io/badge/GitHub-zarak--khan--tech-181717?logo=github)](https://github.com/zarak-khan-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zarak%20Khan%20Yousafzai-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zarak-khan-yousafzai/)
 
-I build practical AI-powered applications using Python, LLMs, APIs, databases, and automation technologies.
+**BS Information Technology student at BUITEMS, Quetta, Pakistan.**
 
-My focus is on turning real-world problems into useful software systems.
-
----
-
-## 🧠 What I Build
-
-- 🤖 AI Agents & Multi-Agent Systems
-- 🧠 LLM-Powered Applications
-- ⚙️ AI Automation & Intelligent Workflows
-- 📄 RAG & Document Intelligence
-- 🔗 AI API Integrations
-- 🏥 Healthcare AI Applications
-- 🎓 Education & University AI Applications
+I build practical software projects around **AI/LLM applications, multi-agent systems, automation, RAG, and backend development**. My portfolio focuses on learning by building complete systems rather than isolated AI demos.
 
 ---
 
-## 🚀 Featured Projects
+## Focus
 
-### 📧 AI Gmail Automation
-AI-powered email automation system that processes incoming Gmail messages and generates context-aware replies.
-
-**Highlights:**
-- Gmail email processing
-- AI email classification
-- Priority detection
-- Intent and information extraction
-- Knowledge-base grounded replies
-- PostgreSQL data storage
-- Automated scheduling
+- AI & LLM Applications
+- Multi-Agent Systems
+- AI Automation & Intelligent Workflows
+- RAG & Document Intelligence
+- Python Backend Development
+- API and Database Integration
 
 ---
 
-### 🏥 MediSphere AI
-AI-powered healthcare management system with a multi-agent workflow.
+## Featured Projects
 
-**Highlights:**
-- Patient management
-- Appointment-related workflows
-- Medical Q&A assistance
-- Multi-agent AI system
+### [UniNexus AI](https://github.com/zarak-khan-tech/UniNexus-AI)
+**Autonomous Multi-Agent University Intelligence Platform**
 
----
+A portfolio/educational project exploring how LLMs can work with registered tools, specialized agents, retrieval, human approval, and workflow automation.
 
-### 🎓 UniNexus AI
-Autonomous multi-agent university intelligence platform designed around orchestration, specialized agents, institutional knowledge, and university data workflows.
-
-**Highlights:**
-- Multi-agent orchestration
-- Attendance, policy, risk, and knowledge agents
-- AI Command Center
-- JWT authentication
-- Multi-tenant data architecture
-- Audit logging and analytics
-- Local LLM planning with Ollama
+**Built with:** Python, FastAPI, React, SQLAlchemy, JWT, Groq, Gemini, Ollama, RAG
 
 ---
 
-## 🛠️ Core Technologies
+### [AI Email Automation](https://github.com/zarak-khan-tech/ai-email-automation)
+**AI-Powered Email Intelligence & Response Automation**
 
-**Languages & Development**
-- Python
-- SQL
-- HTML / CSS
+A Python automation system that processes Gmail messages, classifies emails with an LLM, extracts useful information, generates knowledge-based replies, and records workflow data.
 
-**AI & LLM**
-- LLM APIs
-- OpenRouter
-- Ollama
-- Prompt Engineering
-- RAG / Knowledge-Based AI
-
-**Backend & Databases**
-- Flask
-- PostgreSQL
-- SQLite
-- SQLAlchemy
-
-**Automation & Tools**
-- APScheduler
-- Git
-- GitHub
-- API Integration
+**Built with:** Python, OpenRouter, Gmail IMAP/SMTP, PostgreSQL, SQLAlchemy, APScheduler
 
 ---
 
-## 📌 Current Focus
+### [MediSphere AI](https://github.com/zarak-khan-tech/MediSphere-AI-New)
+**Hospital Management & Multi-Agent Assistant**
 
-I'm currently focused on improving my skills in:
+An educational technical project combining hospital workflows, a modular multi-agent architecture, structured data handling, and LLM-assisted intent classification.
 
-**AI Engineering | LLM Applications | AI Automation | Backend Development | Cloud Deployment**
+**Built with:** Python, Flask, SQLite, Jinja2, JavaScript, LLM APIs
 
----
-
-## 📫 Connect With Me
-
-📧 **Email:** zkyousafzai900@gmail.com  
-🔗 **LinkedIn:** [Zarak Khan Yousafzai](https://www.linkedin.com/in/zarak-khan-yousafzai/)
+> Educational project — not a medical diagnosis or treatment system.
 
 ---
 
-⭐ Building practical software, learning through projects, and improving every day.
+## Technical Stack
+
+**Languages**  
+Python · SQL · HTML · CSS · JavaScript
+
+**AI / LLM**  
+LLM APIs · Prompt Engineering · RAG · Embeddings · Multi-Agent Systems · Ollama · OpenRouter
+
+**Backend & Data**  
+FastAPI · Flask · SQLAlchemy · PostgreSQL · SQLite · REST APIs
+
+**Tools**  
+Git · GitHub · Vite · React · Tailwind CSS · APScheduler
+
+---
+
+## Current Direction
+
+I am currently developing toward **AI Engineering**, with a focus on building reliable LLM-powered applications, agentic workflows, backend systems, and practical automation.
+
+My approach is simple:
+
+**Learn → Build → Test → Document → Improve**
+
+---
+
+## Connect
+
+- **LinkedIn:** [Zarak Khan Yousafzai](https://www.linkedin.com/in/zarak-khan-yousafzai/)
+- **GitHub:** [zarak-khan-tech](https://github.com/zarak-khan-tech)
+- **Email:** zkyousafzai900@gmail.com
+
+---
+
+*Building practical AI systems and learning through real projects.*
