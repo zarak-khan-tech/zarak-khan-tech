@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Zarak Khan Yousafzai AI Engineer portfolio banner">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0f172a"/><stop offset=".5" stop-color="#111827"/><stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" x2="1">
+      <stop offset="0" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#60a5fa;#a78bfa;#22d3ee" dur="7s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#a78bfa"><animate attributeName="stop-color" values="#a78bfa;#22d3ee;#60a5fa;#a78bfa" dur="7s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#g)"/>
+  <circle cx="1030" cy="80" r="110" fill="#2563eb" opacity=".12"><animate attributeName="r" values="95;125;95" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="1120" cy="230" r="150" fill="#7c3aed" opacity=".10"><animate attributeName="r" values="130;170;130" dur="8s" repeatCount="indefinite"/></circle>
+  <path d="M0 235 C260 175 420 300 650 215 S1030 145 1200 210" fill="none" stroke="url(#a)" stroke-width="3" opacity=".65">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 235 C260 175 420 300 650 215 S1030 145 1200 210;M0 215 C260 280 420 165 650 235 S1030 285 1200 185;M0 235 C260 175 420 300 650 215 S1030 145 1200 210"/>
+  </path>
+  <text x="70" y="108" fill="#f8fafc" font-family="Arial, sans-serif" font-size="42" font-weight="700">ZARAK KHAN YOUSAFZAI</text>
+  <text x="72" y="151" fill="#93c5fd" font-family="Arial, sans-serif" font-size="21">AI Engineer • LLM Applications • Multi-Agent Systems</text>
+  <text x="72" y="190" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">Python · RAG · AI Automation · Backend Engineering</text>
+  <g filter="url(#glow)">
+    <circle cx="1040" cy="145" r="38" fill="none" stroke="url(#a)" stroke-width="3"/>
+    <circle cx="1040" cy="145" r="10" fill="#67e8f9">
+      <animate attributeName="r" values="8;14;8" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
