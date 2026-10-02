@@ -4,93 +4,128 @@
 
 **AI & LLM Applications · Multi-Agent Systems · Python · AI Automation**
 
-Building practical AI software with a focus on **LLM applications, agentic workflows, RAG, automation, and backend engineering**.
+BSIT student building practical AI systems, backend services, and LLM-powered applications.
 
-<br/>
-
-<a href="https://github.com/zarak-khan-tech"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/zarak-khan-yousafzai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:zkyousafzai900@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/zarak-khan-tech">GitHub</a> ·
+<a href="https://www.linkedin.com/in/zarak-khan-yousafzai/">LinkedIn</a> ·
+<a href="mailto:zkyousafzai900@gmail.com">Email</a>
 
 </div>
 
 ---
 
-## Profile
+## About
 
-I'm **Zarak Khan Yousafzai**, a **BS Information Technology student at BUITEMS, Quetta, Pakistan**.
+I'm **Zarak Khan Yousafzai**, a **BS Information Technology student at BUITEMS, Quetta, Pakistan**, focused on becoming an **AI Engineer**.
 
-My work is centered on building complete software systems rather than isolated AI demos — combining **Python backends, LLM integrations, RAG, multi-agent orchestration, APIs, automation, testing, and documentation**.
+I build software around **LLMs, agentic workflows, RAG, automation, and Python backends**. My projects are mainly focused on understanding how AI features fit into complete software systems — from APIs and databases to orchestration, tool execution, testing, and user interfaces.
 
-**Current direction:** AI Engineering and production-oriented LLM application development.
+I prefer building working systems and improving them incrementally rather than creating isolated AI demos.
 
 ---
 
-## Core Focus
+## Engineering Focus
 
-<table>
-<tr>
-<td width="50%">
-
-**AI / LLM Engineering**
-- LLM application architecture
-- Agentic workflows and tool calling
+**AI / LLM**
+- LLM application development
+- Agentic workflows and multi-agent systems
+- Tool calling and orchestration
 - RAG and document intelligence
-- Multi-agent orchestration
 - AI automation
+- Multi-provider LLM integration
 
-</td>
-<td width="50%">
-
-**Software Engineering**
-- Python backend development
+**Backend / Software**
+- Python application development
 - FastAPI and Flask
-- React-based interfaces
-- SQL and SQLAlchemy
-- Git, testing, CI, documentation
+- REST APIs and authentication
+- SQL, SQLAlchemy, PostgreSQL and SQLite
+- Background jobs and workflow processing
+- Testing, Git, CI, and technical documentation
 
-</td>
-</tr>
-</table>
+**Frontend**
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- API-driven interfaces
 
 ---
 
-## Selected Projects
+## Featured Work
 
 ### UniNexus AI
 **Autonomous Multi-Agent University Intelligence Platform**
 
-Portfolio/educational system exploring **agent orchestration, tool calling, RAG, human-in-the-loop approvals, workflow automation, analytics, and multi-provider LLM integration**.
+A portfolio/educational system for exploring how multiple AI agents can operate inside a university software environment.
 
-FastAPI · React · SQLAlchemy · RAG · Groq · Gemini · Ollama · pytest
+**Engineering areas:** multi-agent orchestration, agent registry, tool execution, RAG, document ingestion, human-in-the-loop approvals, workflows, notifications, analytics, audit logs, authentication, and multi-provider LLM integration.
 
-<a href="https://github.com/zarak-khan-tech/UniNexus-AI"><img src="https://img.shields.io/badge/View%20Repository-238636?style=flat-square&logo=github&logoColor=white" alt="View UniNexus AI"/></a>
+**Stack:** FastAPI · React · SQLAlchemy · PostgreSQL/SQLite · RAG · Groq · Gemini · Ollama · pytest
+
+[View repository →](https://github.com/zarak-khan-tech/UniNexus-AI)
+
+---
 
 ### AI Email Automation
 **LLM-Powered Email Intelligence & Response Automation**
 
-Python system for Gmail processing with **classification, priority detection, sentiment analysis, summarization, knowledge-grounded reply generation, database logging, and scheduled processing**.
+A Python automation system that processes Gmail messages and applies LLM-based intelligence before storing and optionally processing the resulting actions.
 
-Python · OpenRouter · Gmail IMAP/SMTP · PostgreSQL · SQLAlchemy · APScheduler
+**Engineering areas:** email parsing, classification, priority detection, sentiment analysis, summarization, knowledge-grounded reply generation, database logging, and scheduled processing.
 
-<a href="https://github.com/zarak-khan-tech/ai-email-automation"><img src="https://img.shields.io/badge/View%20Repository-238636?style=flat-square&logo=github&logoColor=white" alt="View AI Email Automation"/></a>
+**Stack:** Python · OpenRouter · Gmail IMAP/SMTP · PostgreSQL · SQLAlchemy · APScheduler
+
+[View repository →](https://github.com/zarak-khan-tech/ai-email-automation)
+
+---
 
 ### MediSphere AI
 **Hospital Management & Multi-Agent Assistant**
 
-Educational technical demonstration combining **Flask, structured data, multi-agent workflows, LLM-assisted intent classification, hospital management features, and safety-constrained responses**.
+An educational software project combining hospital-management workflows with AI-assisted intent handling and constrained responses.
 
-Python · Flask · SQLite · Grok API · Ollama · Jinja2 · JavaScript
+**Engineering areas:** authentication, appointments, structured data, FAQ workflows, multi-agent patterns, LLM-assisted intent classification, and application-level safety constraints.
 
-<a href="https://github.com/zarak-khan-tech/MediSphere-AI-New"><img src="https://img.shields.io/badge/View%20Repository-238636?style=flat-square&logo=github&logoColor=white" alt="View MediSphere AI"/></a>
+**Stack:** Python · Flask · SQLite · Ollama · Grok API · Jinja2 · JavaScript
+
+[View repository →](https://github.com/zarak-khan-tech/MediSphere-AI-New)
 
 ---
 
-## Technology
+## Technical Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,vite,tailwind,js,postgres,sqlite,git,github,vscode&perline=6" alt="Technology stack"/>
-</p>
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · JavaScript · SQL |
+| **AI / LLM** | LLM APIs · RAG · Embeddings · Agentic Workflows · Tool Calling |
+| **Backend** | FastAPI · Flask · REST APIs |
+| **Frontend** | React · Vite · Tailwind CSS |
+| **Databases** | PostgreSQL · SQLite · SQLAlchemy |
+| **Testing / Quality** | pytest · GitHub Actions · API testing |
+| **Developer Tools** | Git · GitHub · VS Code |
+| **LLM Providers / Runtime** | Groq · Gemini · OpenRouter · Ollama |
+
+---
+
+## How I Build
+
+I follow a simple engineering loop:
+
+**Learn → Design → Build → Test → Document → Improve**
+
+For AI projects, I care about more than getting an LLM response. I focus on the surrounding system: **data flow, APIs, persistence, tools, orchestration, failure handling, testing, and maintainability**.
+
+---
+
+## Currently Building Toward
+
+- AI engineering fundamentals
+- Production-oriented LLM applications
+- Reliable agentic systems
+- RAG and retrieval pipelines
+- AI automation and workflow systems
+- Better backend architecture and testing
+- Deployment and system reliability
 
 ---
 
@@ -99,12 +134,8 @@ Python · Flask · SQLite · Grok API · Ollama · Jinja2 · JavaScript
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zarak-khan-tech&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics"/>
-&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarak-khan-tech&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=zarak-khan-tech&theme=transparent&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
@@ -114,36 +145,12 @@ Python · Flask · SQLite · Grok API · Ollama · Jinja2 · JavaScript
 
 ---
 
-## Current Direction
-
-I'm building toward **AI Engineering** through a practical cycle:
-
-**Learn → Build → Test → Document → Improve**
-
-Current areas:
-- LLM application architecture
-- Agentic systems and tool calling
-- RAG and document intelligence
-- Python backend engineering
-- AI automation
-- Testing, CI, and deployment
-
----
-
 <div align="center">
 
-<a href="https://github.com/zarak-khan-tech">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/zarak-khan-yousafzai/">LinkedIn</a>
-&nbsp; · &nbsp;
+**Building practical AI systems, one project at a time.**
+
+<a href="https://github.com/zarak-khan-tech">GitHub</a> ·
+<a href="https://www.linkedin.com/in/zarak-khan-yousafzai/">LinkedIn</a> ·
 <a href="mailto:zkyousafzai900@gmail.com">Email</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=zarak-khan-tech&style=flat-square&label=PROFILE+VIEWS&color=58A6FF" alt="Profile views"/>
-
-<br/><br/>
-
-<sub>Built and maintained by Zarak Khan Yousafzai</sub>
 
 </div>
